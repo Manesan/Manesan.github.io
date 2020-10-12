@@ -19078,7 +19078,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! C:\Users\Manesan Pillay\Desktop\BGP_Github_Pages\Manesan.github.io\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
+    /*! C:\Users\Manesan Pillay\Desktop\NEWDEL8GIT\Angular\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
     "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js");
 
     __webpack_require__(
@@ -19086,7 +19086,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "./node_modules/zone.js/dist/zone-legacy.js");
 
     module.exports = __webpack_require__(
-    /*! C:\Users\Manesan Pillay\Desktop\BGP_Github_Pages\Manesan.github.io\src\polyfills.ts */
+    /*! C:\Users\Manesan Pillay\Desktop\NEWDEL8GIT\Angular\src\polyfills.ts */
     "./src/polyfills.ts");
     /***/
   }
