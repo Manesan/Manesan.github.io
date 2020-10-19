@@ -31760,17 +31760,17 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /*! @angular/forms */
     "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
 
-    function PointOfInterestComponent_div_16_Template(rf, ctx) {
+    function PointOfInterestComponent_div_20_Template(rf, ctx) {
       if (rf & 1) {
         var _r373 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵgetCurrentView"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 48);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 49);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 50);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h5", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h5", 51);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4);
 
@@ -31778,7 +31778,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](5, "br");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "h6", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "h6", 52);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](7);
 
@@ -31786,17 +31786,17 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](8, "br");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](9, "h6", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](9, "h6", 52);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](10);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "div", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "div", 17);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "button", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "button", 53);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_div_16_Template_button_click_12_listener() {
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_div_20_Template_button_click_12_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r373);
 
           var x_r371 = ctx.$implicit;
@@ -31806,15 +31806,15 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           return ctx_r372.view(x_r371.POINTOFINTERESTID);
         });
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](13, "i", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](13, "i", 54);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](14, " \xA0 ");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](15, "button", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](15, "button", 55);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_div_16_Template_button_click_15_listener() {
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_div_20_Template_button_click_15_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r373);
 
           var x_r371 = ctx.$implicit;
@@ -31824,7 +31824,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           return ctx_r374.deleteBinding(x_r371.POINTOFINTERESTID);
         });
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](16, "i", 54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](16, "i", 56);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -31856,9 +31856,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       }
     }
 
-    function PointOfInterestComponent_option_40_Template(rf, ctx) {
+    function PointOfInterestComponent_option_44_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 57);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
 
@@ -31876,9 +31876,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       }
     }
 
-    function PointOfInterestComponent_option_46_Template(rf, ctx) {
+    function PointOfInterestComponent_option_50_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 57);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
 
@@ -31896,9 +31896,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       }
     }
 
-    function PointOfInterestComponent_option_101_Template(rf, ctx) {
+    function PointOfInterestComponent_option_105_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 57);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
 
@@ -31916,9 +31916,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       }
     }
 
-    function PointOfInterestComponent_option_106_Template(rf, ctx) {
+    function PointOfInterestComponent_option_110_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "option", 57);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
 
@@ -32242,9 +32242,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     PointOfInterestComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({
       type: PointOfInterestComponent,
       selectors: [["app-point-of-interest"]],
-      decls: 128,
+      decls: 132,
       vars: 17,
-      consts: [["bdColor", "rgba(0, 0, 0, 0.8)", "size", "medium", "color", "#ffc000", "type", "ball-square-clockwise-spin", 3, "fullScreen"], [2, "color", "white"], [1, "container-fluid", "bgp-background-gray", "bgp-padding"], [1, "header"], [1, "col-sm-12", "mb-5"], ["type", "submit", "data-toggle", "modal", "data-target", "#addModal", 1, "btn", "btn-outline-dark", "my-2", "my-sm-0"], ["title", "Add a point of interest", 1, "fas", "fa-plus"], ["type", "text", "id", "myFilter", "onkeyup", "searchCards()", "placeholder", "Search", 1, "form-control", "bgp-searchbox"], ["id", "myCards", 1, "row"], ["class", "col-sm-3", 4, "ngFor", "ngForOf"], ["id", "editModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-dialog", "modal-dialog-centered"], [1, "modal-content", "bgp-modal"], [1, "modal-header"], ["id", "title", 1, "modal-title", "bgp-text-gold"], [1, "bgp-buttons-in-cards"], ["id", "edit", "title", "Edit this point of interest", "onclick", "editPointOfInterest('Point Of Interest' )", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0"], [1, "fas", "fa-pencil-alt"], ["id", "prompt", 2, "display", "none"], [1, "bgp-text-gold", 2, "text-align", "center"], ["ngNativeValidate", "", 3, "ngSubmit"], [1, "modal-body"], [1, "bgp-text-bold", "bgp-text-gold"], ["disabled", "true", "id", "nameInput", "name", "nameInput", "required", "", "maxlength", "50", 1, "form-control", 3, "ngModel", "ngModelChange"], ["disabled", "", "disabled", "true", "id", "pointTypeNameInput", "name", "pointTypeNameInput", 1, "form-control", 2, "display", "block", 3, "ngModel", "ngModelChange"], ["name", "pointofinteresttypes", "id", "typeInput", "required", "", 1, "form-control", 2, "display", "none", 3, "ngModel", "ngModelChange"], [3, "ngValue", 4, "ngFor", "ngForOf"], ["disabled", "", "disabled", "true", "id", "suburbNameInput", "name", "suburbNameInput", 1, "form-control", 2, "display", "block", 3, "ngModel", "ngModelChange"], ["name", "suburbs", "id", "suburbInput", "required", "", 1, "form-control", 2, "display", "none", 3, "ngModel", "ngModelChange"], [1, "modal-footer"], ["type", "submit", "id", "OKButton", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards", 2, "visibility", "hidden"], ["type", "button", "data-dismiss", "modal", "onClick", "window.location.reload();", 1, "btn", "btn-default", "bgp-buttons-in-cards", "bgp-text-white"], ["id", "confirmEditModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-title", "bgp-text-gold"], [1, "bgp-text-white"], ["type", "submit", "data-dismiss", "modal", "data-toggle", "modal", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards", 3, "click"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-default", "bgp-buttons-in-cards", "bgp-text-white", 3, "click"], ["id", "deleteModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-header", "modal-dialog-centered"], ["id", "addModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "bgp-text-bold", "bgp-text-gold", 2, "text-align", "center"], ["id", "nameInput", "name", "nameInput", "required", "", "maxlength", "50", 1, "form-control", 3, "ngModel", "ngModelChange"], ["name", "pointofinteresttypes", "id", "typeInput", "required", "", 1, "form-control", 3, "ngModel", "ngModelChange"], ["name", "subrubs", "id", "suburbInput", "required", "", 1, "form-control", 3, "ngModel", "ngModelChange"], ["type", "submit", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards"], ["id", "confirmAddModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "col-sm-3"], [1, "card", "text-white", "bg-dark", "mb-3", "animate__animated", "animate__slideInRight", "bgp-card-medium", "bgp-card"], [1, "card-body"], [1, "card-title", "bgp-text-gold"], [1, "card-subtitle"], ["type", "submit", "data-toggle", "modal", "data-target", "#editModal", "title", "View this point of interest", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", 3, "click"], [1, "far", "fa-eye"], ["type", "submit", "data-toggle", "modal", "data-target", "#deleteModal", "title", "Delete this point of interest", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", 3, "click"], [1, "fas", "fa-trash-alt"], [3, "ngValue"]],
+      consts: [["bdColor", "rgba(0, 0, 0, 0.8)", "size", "medium", "color", "#ffc000", "type", "ball-square-clockwise-spin", 3, "fullScreen"], [2, "color", "white"], [1, "container-fluid", "bgp-background-gray", "bgp-padding"], [1, "header"], [1, "col-sm-12", "mb-5"], [1, "bgp-help-link"], ["href", "https://manesan.github.io/WebHelp/pages/point-of-interests-screen.html", 1, ""], ["type", "submit", "data-toggle", "modal", "data-target", "#addModal", 1, "btn", "btn-outline-dark", "my-2", "my-sm-0"], ["title", "Add a point of interest", 1, "fas", "fa-plus"], ["type", "text", "id", "myFilter", "onkeyup", "searchCards()", "placeholder", "Search", 1, "form-control", "bgp-searchbox"], ["id", "myCards", 1, "row"], ["class", "col-sm-3", 4, "ngFor", "ngForOf"], ["id", "editModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-dialog", "modal-dialog-centered"], [1, "modal-content", "bgp-modal"], [1, "modal-header"], ["id", "title", 1, "modal-title", "bgp-text-gold"], [1, "bgp-buttons-in-cards"], ["id", "edit", "title", "Edit this point of interest", "onclick", "editPointOfInterest('Point Of Interest' )", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0"], [1, "fas", "fa-pencil-alt"], ["id", "prompt", 2, "display", "none"], [1, "bgp-text-gold", 2, "text-align", "center"], ["ngNativeValidate", "", 3, "ngSubmit"], [1, "modal-body"], [1, "bgp-text-bold", "bgp-text-gold"], ["disabled", "true", "id", "nameInput", "name", "nameInput", "required", "", "maxlength", "50", 1, "form-control", 3, "ngModel", "ngModelChange"], ["disabled", "", "disabled", "true", "id", "pointTypeNameInput", "name", "pointTypeNameInput", 1, "form-control", 2, "display", "block", 3, "ngModel", "ngModelChange"], ["name", "pointofinteresttypes", "id", "typeInput", "required", "", 1, "form-control", 2, "display", "none", 3, "ngModel", "ngModelChange"], [3, "ngValue", 4, "ngFor", "ngForOf"], ["disabled", "", "disabled", "true", "id", "suburbNameInput", "name", "suburbNameInput", 1, "form-control", 2, "display", "block", 3, "ngModel", "ngModelChange"], ["name", "suburbs", "id", "suburbInput", "required", "", 1, "form-control", 2, "display", "none", 3, "ngModel", "ngModelChange"], [1, "modal-footer"], ["type", "submit", "id", "OKButton", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards", 2, "visibility", "hidden"], ["type", "button", "data-dismiss", "modal", "onClick", "window.location.reload();", 1, "btn", "btn-default", "bgp-buttons-in-cards", "bgp-text-white"], ["id", "confirmEditModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-title", "bgp-text-gold"], [1, "bgp-text-white"], ["type", "submit", "data-dismiss", "modal", "data-toggle", "modal", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards", 3, "click"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-default", "bgp-buttons-in-cards", "bgp-text-white", 3, "click"], ["id", "deleteModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "modal-header", "modal-dialog-centered"], ["id", "addModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "bgp-text-bold", "bgp-text-gold", 2, "text-align", "center"], ["id", "nameInput", "name", "nameInput", "required", "", "maxlength", "50", 1, "form-control", 3, "ngModel", "ngModelChange"], ["name", "pointofinteresttypes", "id", "typeInput", "required", "", 1, "form-control", 3, "ngModel", "ngModelChange"], ["name", "subrubs", "id", "suburbInput", "required", "", 1, "form-control", 3, "ngModel", "ngModelChange"], ["type", "submit", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", "bgp-buttons-in-cards"], ["id", "confirmAddModal", "role", "dialog", "data-backdrop", "static", 1, "modal", "fade"], [1, "col-sm-3"], [1, "card", "text-white", "bg-dark", "mb-3", "animate__animated", "animate__slideInRight", "bgp-card-medium", "bgp-card"], [1, "card-body"], [1, "card-title", "bgp-text-gold"], [1, "card-subtitle"], ["type", "submit", "data-toggle", "modal", "data-target", "#editModal", "title", "View this point of interest", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", 3, "click"], [1, "far", "fa-eye"], ["type", "submit", "data-toggle", "modal", "data-target", "#deleteModal", "title", "Delete this point of interest", 1, "btn", "btn-outline-warning", "my-2", "my-sm-0", 3, "click"], [1, "fas", "fa-trash-alt"], [3, "ngValue"]],
       template: function PointOfInterestComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "ngx-spinner", 0);
@@ -32281,155 +32281,161 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "button", 5);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "div", 5);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](13, "i", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](13, "a", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](14, "input", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](15, "div", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](16, PointOfInterestComponent_div_16_Template, 18, 3, "div", 9);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](17, "div", 10);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](18, "div", 11);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](19, "div", 12);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](20, "div", 13);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "h4", 14);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](22, "View Point of Interest");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](23, "div", 15);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](24, "button", 16);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](25, "i", 17);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](14, "Help");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](15, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](26, "div", 18);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](16, "button", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](27, "br");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](28, "h6", 19);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](29, "Please provide the updated point of interest details");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](17, "i", 8);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](18, "input", 9);
+
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](30, "form", 20);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](19, "div", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngSubmit", function PointOfInterestComponent_Template_form_ngSubmit_30_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](20, PointOfInterestComponent_div_20_Template, 18, 3, "div", 11);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "div", 12);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](22, "div", 13);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](23, "div", 14);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](24, "div", 15);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](25, "h4", 16);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](26, "View Point of Interest");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](27, "div", 17);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](28, "button", 18);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](29, "i", 19);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](30, "div", 20);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](31, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](32, "h6", 21);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](33, "Please provide the updated point of interest details");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](34, "form", 22);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngSubmit", function PointOfInterestComponent_Template_form_ngSubmit_34_listener() {
             return ctx.submitUpdate();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](31, "div", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](35, "div", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](32, "p", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](36, "p", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](33, "Name");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](37, "Name");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](34, "input", 23);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](38, "input", 25);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_34_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_38_listener($event) {
             return ctx.nameInput = $event;
           });
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](35, "br");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](39, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](36, "p", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](40, "p", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](37, "Type");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](41, "Type");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](38, "input", 24);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](42, "input", 26);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_38_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_42_listener($event) {
             return ctx.pointTypeNameInput = $event;
           });
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](39, "select", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](43, "select", 27);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_39_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_43_listener($event) {
             return ctx.typeid = $event;
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](40, PointOfInterestComponent_option_40_Template, 2, 2, "option", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](44, PointOfInterestComponent_option_44_Template, 2, 2, "option", 28);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](41, "br");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](45, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](42, "p", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](46, "p", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](43, "Suburb");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](47, "Suburb");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](44, "input", 27);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](48, "input", 29);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_44_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_48_listener($event) {
             return ctx.suburbNameInput = $event;
           });
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](45, "select", 28);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](49, "select", 30);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_45_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_49_listener($event) {
             return ctx.suburbid = $event;
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](46, PointOfInterestComponent_option_46_Template, 2, 2, "option", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](50, PointOfInterestComponent_option_50_Template, 2, 2, "option", 28);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](47, "div", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](51, "div", 31);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](48, "button", 30);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](52, "button", 32);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](49, "Update");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](50, " \xA0 ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](51, "button", 31);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](52, "Cancel");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](53, "Update");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](54, " \xA0 ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](55, "button", 33);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](56, "Cancel");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -32437,53 +32443,59 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](53, "div", 32);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](54, "div", 11);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](55, "div", 12);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](56, "div", 13);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](57, "h4", 33);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](58, "Update this point of interest?");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](59, "div", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](57, "div", 34);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](60, "p", 34);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](58, "div", 13);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](61);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](59, "div", 14);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](60, "div", 15);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](61, "h4", 35);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](62, "Update this point of interest?");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](62, "div", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](63, "div", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](63, "button", 35);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](64, "p", 36);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_63_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](65);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](66, "div", 31);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](67, "button", 37);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_67_listener() {
             return ctx.update(ctx.pointofinterestid);
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](64, "Yes");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](68, "Yes");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](65, " \xA0 ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](69, " \xA0 ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](66, "button", 36);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](70, "button", 38);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_66_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_70_listener() {
             return ctx.ngOnInit();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](67, "No");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](71, "No");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -32495,53 +32507,53 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](68, "div", 37);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](72, "div", 39);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](69, "div", 11);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](73, "div", 13);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](70, "div", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](74, "div", 14);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](71, "div", 38);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](75, "div", 40);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](72, "h4", 33);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](76, "h4", 35);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](73, "Are you sure you want to delete this point of interest?");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](74, "div", 21);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](75, "p", 34);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](76);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](77, "Are you sure you want to delete this point of interest?");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](77, "div", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](78, "div", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](78, "button", 35);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](79, "p", 36);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_78_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](80);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](81, "div", 31);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](82, "button", 37);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_82_listener() {
             return ctx["delete"](ctx.pointofinterestid);
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](79, "Yes");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](83, "Yes");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](80, " \xA0 ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](84, " \xA0 ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](81, "button", 36);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](85, "button", 38);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_81_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_85_listener() {
             return ctx.ngOnInit();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](82, "No");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](86, "No");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -32553,109 +32565,103 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](83, "div", 39);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](87, "div", 41);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](84, "div", 11);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](88, "div", 13);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](85, "div", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](89, "div", 14);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](86, "div", 13);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](90, "div", 15);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](87, "h4", 33);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](91, "h4", 35);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](88, "Add Point of Interest");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](92, "Add Point of Interest");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](89, "form", 20);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngSubmit", function PointOfInterestComponent_Template_form_ngSubmit_89_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](93, "form", 22);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngSubmit", function PointOfInterestComponent_Template_form_ngSubmit_93_listener() {
             return ctx.submitAdd();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](90, "div", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](94, "div", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](91, "p", 40);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](95, "p", 42);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](92, "Please provide the point of interest details");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](93, "br");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](94, "p", 22);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](95, "Description");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](96, "input", 41);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_96_listener($event) {
-            return ctx.nameInput = $event;
-          });
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](96, "Please provide the point of interest details");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](97, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](98, "p", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](98, "p", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](99, "Type");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](99, "Description");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](100, "select", 42);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](100, "input", 43);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_100_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_input_ngModelChange_100_listener($event) {
+            return ctx.nameInput = $event;
+          });
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](101, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](102, "p", 24);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](103, "Type");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](104, "select", 44);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_104_listener($event) {
             return ctx.typeid = $event;
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](101, PointOfInterestComponent_option_101_Template, 2, 2, "option", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](105, PointOfInterestComponent_option_105_Template, 2, 2, "option", 28);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](102, "br");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](106, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](103, "p", 22);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](107, "p", 24);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](104, "Suburb");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](108, "Suburb");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](105, "select", 43);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](109, "select", 45);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_105_listener($event) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function PointOfInterestComponent_Template_select_ngModelChange_109_listener($event) {
             return ctx.suburbid = $event;
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](106, PointOfInterestComponent_option_106_Template, 2, 2, "option", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](110, PointOfInterestComponent_option_110_Template, 2, 2, "option", 28);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](107, "div", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](111, "div", 31);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](108, "button", 44);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](112, "button", 46);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](109, "Add");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](110, " \xA0 ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](111, "button", 31);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](112, "Cancel");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](113, "Add");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](114, " \xA0 ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](115, "button", 33);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](116, "Cancel");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -32663,53 +32669,59 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](113, "div", 45);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](114, "div", 11);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](115, "div", 12);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](116, "div", 13);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](117, "h4", 33);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](118, "Add this point of interest?");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](119, "div", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](117, "div", 47);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](120, "p", 34);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](118, "div", 13);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](121);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](119, "div", 14);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](120, "div", 15);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](121, "h4", 35);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](122, "Add this point of interest?");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](122, "div", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](123, "div", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](123, "button", 35);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](124, "p", 36);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_123_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](125);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](126, "div", 31);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](127, "button", 37);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_127_listener() {
             return ctx.add();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](124, "Yes");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](128, "Yes");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](125, " \xA0 ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](129, " \xA0 ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](126, "button", 36);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](130, "button", 38);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_126_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function PointOfInterestComponent_Template_button_click_130_listener() {
             return ctx.ngOnInit();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](127, "No");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](131, "No");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -32727,7 +32739,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         if (rf & 2) {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("fullScreen", true);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](16);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](20);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.pointsofinterest);
 
